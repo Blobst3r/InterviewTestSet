@@ -1,0 +1,14 @@
+{
+  "name": "globalbluetask",
+  "version": "1.0.0",
+  "description": "Quick automated tests",
+  "main": "tests.js",
+  "devDependencies": {
+    "cypress": "^13.3.0"
+  },
+  "scripts": {
+    "test": "run_tests"
+  },
+  "author": "",
+  "license": "ISC"
+}
